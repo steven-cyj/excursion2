@@ -1,0 +1,83 @@
+.header h1 {
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+    color: white;
+    font-family: "Verdana";
+}
+
+.anchor {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.anchor a {
+    color: Aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
+
+video {
+    position: absolute;
+    top: 20;
+    bottom: 1;
+    right: 0;
+    left: 0;
+    margin: auto;
+    min-height: 70%;
+    min-width: 70%;
+}
+
+.below-vid {
+    font-family: "Verdana";
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+    margin-top: 1000px;
+}
+
+footer {
+    font-family: "Verdana";
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+    margin-top: -60px;
+}
+
+.camp {
+    text-align: center;
+}
+
+.phone {
+    text-align: center;
+}
+
+.caption {
+    color: white;
+    ont-family: "Verdana";
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.last {
+    color: Aquamarine;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    
+    margin-bottom: 30px;
+}
+.lastf {
+    text-align: right;
+    color: gray;
+}
